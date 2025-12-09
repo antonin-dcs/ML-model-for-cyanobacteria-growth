@@ -34,6 +34,7 @@ To handle the noisy nature of the data and predict concentrations effectively, w
 
 # project strucure 
 
+```bash
 ├── data/               # Raw and processed Raman spectra
 ├── notebooks/          # Jupyter notebooks for EDA and model comparison
 ├── src/                # Python scripts for preprocessing and modeling             
